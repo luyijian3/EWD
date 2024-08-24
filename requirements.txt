@@ -1,0 +1,14 @@
+transformers
+datasets
+nltk
+jieba
+accelerate
+SentencePiece
+openai==0.28
+matplotlib
+Pillow==9.4.0
+sentence-transformers
+imagehash
+imgaug
+request
+ftfy
