@@ -10,5 +10,5 @@ Pillow==9.4.0
 sentence-transformers
 imagehash
 imgaug
-request
+requests
 ftfy
